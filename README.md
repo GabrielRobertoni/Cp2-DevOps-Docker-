@@ -205,5 +205,4 @@ docker image ls
 docker volume ls
 
 docker network ls
-Link do vídeo (editar depois)
  
