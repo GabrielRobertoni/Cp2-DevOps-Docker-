@@ -8,18 +8,11 @@ Bruno Ferreira — RM563489
 Gabriel Robertoni Padilha — RM566293
 
 Leonardo Aragaki — RM562944
+
 Estrutura de Pastas do Projeto
+
 cp2-docker/
 
-├─ api/
-
-│   ├─ index.js
-
-│   ├─ package.json
-
-│   └─ Dockerfile
-
-└─ README.md
 Código Fonte da API — api/index.js
 const express = require('express');
 
