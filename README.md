@@ -205,4 +205,7 @@ docker image ls
 docker volume ls
 
 docker network ls
+
+
+ link video youtub:  https://www.youtube.com/watch?v=A6LufszycQ8
  
